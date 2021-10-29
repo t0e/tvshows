@@ -1,5 +1,7 @@
 # TV Shows Application
 
+[![Watch the video](https://i.ibb.co/0DBYJfZ/Screen-Shot-2021-10-29-at-11-28-05-AM.png)](https://youtu.be/vr03i5_5ZtI)
+
 ## Prerequisites
 
 - [Node.js > 15](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
